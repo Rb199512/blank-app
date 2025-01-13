@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Initial commit with Streamlit app"
+git remote add origin https://github.com/Rb199512/blank-app/new/main
+git push -u origin master
